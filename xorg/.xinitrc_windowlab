@@ -1,0 +1,7 @@
+#! /usr/bin/env bash
+
+xrdb -load ~/.Xresources &
+xfsettingsd &
+picom &
+~/.fehbg &
+exec windowlab
