@@ -3,6 +3,7 @@
 Nothing fancy, some config files of programs I haven't used in a while (still
 perfectly working thow).
 
+* **Dunst**. I'm living with *Deadd* now, sorry but there can be only one.
 * **Emacs**. I certainly do not have to explain [why](http://www.textfiles.com/programming/vivsemacs.txt) you should use *Vim* instead.
 * **Kitty**. It is a very cute terminal emulator and full of features too but I have
   encontered some issues with my custom font set.
@@ -15,4 +16,3 @@ perfectly working thow).
   *ranger* and *fff* for it, they're my perfect combo.
 * **Xorg**. Here there are my old *Xresources* with the *URxvt* configs: I'm
   using other terminal emulator in [these days](https://github.com/MatteoGiorgi/.dotfiles).
- 
