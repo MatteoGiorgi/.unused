@@ -1,4 +1,4 @@
-# unused dotfiles
+# Unused dotfiles
 
 Nothing fancy, some config files of programs I haven't used in a while (still
 perfectly working thow).
@@ -7,7 +7,7 @@ perfectly working thow).
 * **Emacs**. I certainly do not have to explain [why](http://www.textfiles.com/programming/vivsemacs.txt) you should use *Vim* instead.
 * **Kitty**. It is a very cute terminal emulator and full of features too but I have
   encontered some issues with my custom font set.
-* **Nvim**. No way, I'll sick with *Vim8* for now (it feels more hardcore).
+* **Nvim**. No way, I'll stick with *Vim8* for now (it feels more hardcore).
 * **Rofi**. It is cool, isn't it? But I prefer to specify its configs in the
   *Xresources* or using directly the command line options.
 * **Vieb**. I like it but it's not mature enough (I'm using it once in a while
