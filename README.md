@@ -15,4 +15,4 @@ perfectly working thow).
 * **Vifm**. A very solid file manager but not my cup of tea, I won't leave
   *ranger* and *fff* for it, they're my perfect combo.
 * **Xorg**. Here there are my old *Xresources* with the *URxvt* configs: I'm
-  using other terminal emulator in [these days](https://github.com/geoteo1/.dotfiles).
+  using other terminal emulator in [these days](https://github.com/matteogiorgi/.dotfiles).
