@@ -12,7 +12,9 @@ set mintabwidth=250
 set windowtitle=title
 set fontsize=12
 set darkreader=false
-set favoritepages="https://matteogiorgi.github.io,https://github.com/MatteoGiorgi,https://mega.nz,https://catonmat.net/vim-plugins"
+set favoritepages="https://www.geoteo.net,https://github.com/matteogiorgi,https://mega.nz,https://catonmat.net/vim-plugins"
+
+color dracula
 
 " Mappings
 map <Up> <action.scrollUp>

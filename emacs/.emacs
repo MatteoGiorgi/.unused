@@ -34,5 +34,5 @@
 (setq-default indent-tabs-mode nil)
 
 
-(set-face-attribute 'default nil :font "mononoki-9")
-(set-frame-font "mononoki-9" nil t)
+(set-face-attribute 'default nil :font "mononoki Nerd Font-9")
+(set-frame-font "mononoki Nerd Font-9" nil t)
