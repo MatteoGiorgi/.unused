@@ -1,0 +1,31 @@
+               /##    /##/##
+              | ##   | #|__/
+              | ##   | ##/##/######/####
+              |  ## / ##| #| ##_  ##_  ##
+               \  ## ##/| #| ## \ ## \ ##
+                \  ###/ | #| ## | ## | ##
+                 \  #/  | #| ## | ## | ##
+                  \_/   |__|__/ |__/ |__/
+
+
+[N]  Ctrl + h    ---------->    Shrink window horizontally
+[N]  Ctrl + j    ---------->    Shrink window vertically
+[N]  Ctrl + k    ---------->    Expand window vertically
+[N]  Ctrl + l    ---------->    Expand window horizontally
+
+[N]  Tab    --------------->    Next buffer
+[N]  Bspace    ------------>    Prev buffer
+
+[V]  Shift + j    --------->    Move selected text down
+[V]  Shift + k    --------->    Move selected text up
+
+[N]  Space + w    --------->    Activate wincmd
+[N]  Space + q    --------->    Quit window
+[N]  Space + z    --------->    Write buffer
+[N]  Space + e    --------->    New empty buffer
+[N]  Space + d    --------->    Delete buffer
+
+[I]  Return    ------------>    Insert selected word
+[ ]  Space + u    --------->    Open URL under the cursor
+
+

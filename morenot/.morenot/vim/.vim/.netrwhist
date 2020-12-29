@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/geoteo/.dotfiles/vim/.vim/colors'
+let g:netrw_dirhist_6='/home/geoteo/.dotfiles/vim/.vim'
+let g:netrw_dirhist_5='/home/geoteo/.dotfiles/vim'
+let g:netrw_dirhist_4='/home/geoteo'
+let g:netrw_dirhist_3='/home/geoteo/.dotfiles/vim'
+let g:netrw_dirhist_2='/home/geoteo/.dotfiles'
+let g:netrw_dirhist_1='/home/geoteo'

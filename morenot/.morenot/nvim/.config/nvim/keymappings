@@ -1,0 +1,32 @@
+
+         [ ]  Alt + Return    ->    Pop this memo up                                           [N]  Space + r            ->    Replace search selection
+         [ ]  Space + u       ->    Open URL under the cursor                                  [V]  Space + r            ->    Replace search selection in v-block
+
+         [N]  Ctrl + h        ->    Shrink window horizontally                                 [N]  Space + C            ->    Change root directory
+         [N]  Ctrl + j        ->    Shrink window vertically                                   [N]  Space + c            ->    Change root directory to current
+         [N]  Ctrl + k        ->    Expand window vertically                                   [N]  Space + X            ->    Seek & change current directory
+         [N]  Ctrl + l        ->    Expand window horizontally                                 [N]  Space + x            ->    Jump between current and root directory
+
+         [N]  Alt + h         ->    Open new buffer left                                       [N]  Space + Space        ->    Comment current line
+         [N]  Alt + j         ->    Open new buffer below                                      [V]  Space + Space        ->    Comment selected lines
+         [N]  Alt + k         ->    Open new buffer above                                      [I]  Return               ->    Insert selected word
+         [N]  Alt + l         ->    Open new buffer right
+                                                                                               [ ]  Space + s + ?        ->    Surround current word
+         [N]  Alt + Tab       ->    Next buffer                                                [V]  Space + s + ?        ->    Surround current selected text
+         [N]  Alt + Bspace    ->    Prev buffer                                                [ ]  Space + a + ??       ->    Change surroundings
+                                                                                               [ ]  Space + A + ?        ->    Delete surroundings
+         [N]  Tab             ->    Jump to next paragraph & centering
+         [N]  Bspace          ->    Jump to prev paragraph & centering                         [N]  Space + Tab          ->    Activate Netrw in current window
+                                                                                               [N]  Space + Backspace    ->    Toggle Undotree
+         [V]  Shift + j       ->    Move selected text down
+         [V]  Shift + k       ->    Move selected text up                                      [N]  Space + f            ->    Fzf files from current directory
+                                                                                               [N]  Space + F            ->    Fzf (Ag) wordsfrom current directory
+         [N]  Space + w       ->    Activate wincmd                                            [N]  Space + g            ->    Fzf files in current git repo
+         [N]  Space + q       ->    Quit window                                                [N]  Space + G            ->    Fzf status current git repo
+         [N]  Space + z       ->    Write buffer                                               [N]  Space + h            ->    Fzf files from history
+         [N]  Space + e       ->    New empty buffer                                           [N]  Space + j            ->    Fzf opened buffers
+         [N]  Space + d       ->    Delete buffer                                              [N]  Space + k            ->    Fzf commands
+         [N]  Space + D       ->    Delete all buffers                                         [N]  Space + K            ->    Fzf commands history
+                                                                                               [N]  Space + l            ->    Fzf lines in current buffer
+         [V]  Tab             ->    Shift selected text one tab right                          [N]  Space + L            ->    Fzf lines in opened buffers
+         [V]  Shift + Tab     ->    Shift selected text one tab left

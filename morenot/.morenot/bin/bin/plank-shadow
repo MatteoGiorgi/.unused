@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+sh -c "sleep 3 && command"
+wmctrl -r docky -b toggle,below
+sleep .5
+xfwm4 --daemon --replace
