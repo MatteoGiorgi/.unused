@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Window Effects
+GenericName=Compton Configuration
+Comment=Configure Compton window effects
+Exec=compton-conf
+TryExec=swallow compton-conf
+Icon=compton
+Type=Application
+Categories=Settings;DesktopSettings;Qt;LXQt;XXFCE-SettingsDialog;XXFCE-PersonalSettings;
