@@ -248,11 +248,11 @@ let g:fzf_colors = {
 
 "VIFM___________________________________________________________________________
 
-let g:vifm = '~/bin/vifmrun'
-let g:vifm_embed_split = 1
-let g:vifm_embed_cwd = 1
+let g:vifm = '$HOME/bin/vifmrun'
 let g:vifm_replace_netrw = 1
 let g:vifm_replace_netrw_cmd = 1
+" let g:vifm_embed_split = 1
+" let g:vifm_embed_cwd = 1
 
 
 
@@ -496,6 +496,7 @@ nnoremap <leader><Tab> :UndotreeToggle<CR>
 nnoremap <leader>v :FloatermNew vifm<CR>
 nnoremap <leader>y :FloatermNew lazygit<CR>
 nnoremap <leader>p :FloatermNew htop<CR>
+" nnoremap <leader><Tab> :EditVifm<CR>
 
 
 " Fzf

@@ -1,5 +1,5 @@
 favorites=firefox.desktop,thunderbird.desktop,thunar.desktop,xfce4-terminal.desktop,xed.desktop
-recent=thunar.desktop,vlc.desktop,notepadqq.desktop,brave-browser.desktop,gummi.desktop,geany.desktop,xfce4-terminal.desktop,transmission-gtk.desktop,xed.desktop,telegramdesktop.desktop
+recent=nm-connection-editor.desktop,lxterminal.desktop,org.debian.galternatives.desktop,thunar.desktop,vlc.desktop,notepadqq.desktop,brave-browser.desktop,gummi.desktop,geany.desktop,xfce4-terminal.desktop
 button-title=\ \ \ \ \ 
 button-icon=xfce4-whiskermenu
 button-single-row=false

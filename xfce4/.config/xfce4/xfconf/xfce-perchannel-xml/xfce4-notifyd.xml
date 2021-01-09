@@ -5,7 +5,7 @@
   <property name="theme" type="string" value="Dracula"/>
   <property name="initial-opacity" type="double" value="1.000000"/>
   <property name="expire-timeout" type="int" value="3"/>
-  <property name="primary-monitor" type="uint" value="1"/>
+  <property name="primary-monitor" type="uint" value="0"/>
   <property name="do-fadeout" type="bool" value="false"/>
   <property name="applications" type="empty">
     <property name="known_applications" type="array">

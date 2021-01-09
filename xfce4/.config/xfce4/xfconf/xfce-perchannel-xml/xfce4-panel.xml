@@ -9,7 +9,7 @@
       <property name="position" type="string" value="p=8;x=640;y=1555"/>
       <property name="length" type="uint" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
-      <property name="size" type="uint" value="24"/>
+      <property name="size" type="uint" value="22"/>
       <property name="background-style" type="uint" value="1"/>
       <property name="background-alpha" type="empty"/>
       <property name="enter-opacity" type="uint" value="100"/>
@@ -31,6 +31,7 @@
         <value type="double" value="1.000000"/>
       </property>
       <property name="output-name" type="string" value="Primary"/>
+      <property name="nrows" type="uint" value="1"/>
     </property>
     <property name="panel-2" type="empty">
       <property name="position" type="string" value="p=7;x=33;y=400"/>
@@ -87,6 +88,8 @@
       <property name="names-visible" type="empty"/>
       <property name="show-frame" type="bool" value="false"/>
       <property name="names-ordered" type="array">
+        <value type="string" value="volumeicon"/>
+        <value type="string" value="clipit"/>
         <value type="string" value="bluetooth active &lt;b&gt;1 active connection&lt;/b&gt;"/>
         <value type="string" value="bluetooth active &lt;b&gt;1 active connection&lt;/b&gt;"/>
         <value type="string" value="bluetooth active &lt;b&gt;1 active connection&lt;/b&gt;"/>
@@ -111,7 +114,7 @@
         <value type="string" value="tray.py"/>
       </property>
       <property name="square-icons" type="bool" value="true"/>
-      <property name="size-max" type="uint" value="18"/>
+      <property name="size-max" type="uint" value="16"/>
     </property>
     <property name="plugin-9" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
@@ -128,7 +131,7 @@
       <property name="display-type" type="uint" value="0"/>
       <property name="display-name" type="uint" value="0"/>
       <property name="group-policy" type="uint" value="0"/>
-      <property name="display-scale" type="uint" value="60"/>
+      <property name="display-scale" type="uint" value="70"/>
       <property name="caps-lock-indicator" type="bool" value="true"/>
       <property name="display-tooltip-icon" type="bool" value="false"/>
     </property>

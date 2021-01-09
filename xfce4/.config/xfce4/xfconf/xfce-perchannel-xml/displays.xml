@@ -10,22 +10,22 @@
       <property name="RefreshRate" type="double" value="60.163405"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
-      <property name="Primary" type="bool" value="false"/>
-      <property name="Position" type="empty">
-        <property name="X" type="int" value="0"/>
-        <property name="Y" type="int" value="224"/>
-      </property>
-    </property>
-    <property name="VGA-1" type="string" value="Acer Technologies 19&quot;">
-      <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="d8f8979def14042bb8f48f423bfdf260573908f3"/>
-      <property name="Resolution" type="string" value="1280x1024"/>
-      <property name="RefreshRate" type="double" value="60.019740"/>
-      <property name="Rotation" type="int" value="0"/>
-      <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="true"/>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="1280"/>
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="768"/>
+      </property>
+    </property>
+    <property name="VGA-1" type="string" value="BenQ 15&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="d579cb5091f6d7d775dfc69e52243740663b3c3c"/>
+      <property name="Resolution" type="string" value="1024x768"/>
+      <property name="RefreshRate" type="double" value="60.003840"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="130"/>
         <property name="Y" type="int" value="0"/>
       </property>
     </property>
@@ -38,22 +38,50 @@
       <property name="RefreshRate" type="double" value="60.163405"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
-      <property name="Primary" type="bool" value="false"/>
+      <property name="Primary" type="bool" value="true"/>
       <property name="Position" type="empty">
         <property name="X" type="int" value="0"/>
-        <property name="Y" type="int" value="224"/>
+        <property name="Y" type="int" value="768"/>
       </property>
     </property>
-    <property name="VGA-1" type="string" value="Acer Technologies 19&quot;">
+    <property name="VGA-1" type="string" value="BenQ 15&quot;">
       <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="d8f8979def14042bb8f48f423bfdf260573908f3"/>
-      <property name="Resolution" type="string" value="1280x1024"/>
-      <property name="RefreshRate" type="double" value="60.019740"/>
+      <property name="EDID" type="string" value="d579cb5091f6d7d775dfc69e52243740663b3c3c"/>
+      <property name="Resolution" type="string" value="1024x768"/>
+      <property name="RefreshRate" type="double" value="60.003840"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="130"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+  </property>
+  <property name="acc24beefaa4c1f75925f9ffffb492568bf642f0" type="string" value="vertical layout 1">
+    <property name="LVDS-1" type="string" value="Laptop">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="77e191bbfe5e10858f83abb22d4ea90a18d19b0b"/>
+      <property name="Resolution" type="string" value="1280x800"/>
+      <property name="RefreshRate" type="double" value="60.163405"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="true"/>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="1280"/>
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="768"/>
+      </property>
+    </property>
+    <property name="VGA-1" type="string" value="BenQ 15&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="d579cb5091f6d7d775dfc69e52243740663b3c3c"/>
+      <property name="Resolution" type="string" value="1024x768"/>
+      <property name="RefreshRate" type="double" value="60.003840"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="130"/>
         <property name="Y" type="int" value="0"/>
       </property>
     </property>
