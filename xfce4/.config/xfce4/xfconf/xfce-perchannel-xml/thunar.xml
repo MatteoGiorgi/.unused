@@ -12,10 +12,10 @@
   <property name="default-view" type="string" value="ThunarDetailsView"/>
   <property name="last-menubar-visible" type="bool" value="false"/>
   <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_38_PERCENT"/>
-  <property name="last-details-view-column-widths" type="string" value="50,123,50,50,488,50,50,69,50,152"/>
+  <property name="last-details-view-column-widths" type="string" value="50,123,50,50,124,50,50,69,50,152"/>
   <property name="last-window-maximized" type="bool" value="false"/>
-  <property name="last-window-width" type="int" value="980"/>
-  <property name="last-window-height" type="int" value="704"/>
+  <property name="last-window-width" type="int" value="616"/>
+  <property name="last-window-height" type="int" value="736"/>
   <property name="last-separator-position" type="int" value="147"/>
   <property name="last-side-pane" type="string" value="ThunarTreePane"/>
   <property name="tree-icon-emblems" type="bool" value="true"/>
